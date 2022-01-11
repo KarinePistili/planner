@@ -1,0 +1,38 @@
+.bg-img {
+    margin: 0;
+    background-position-x: -50px;
+    background-position-y: -200px;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../assets//freddie-marriage-vSchPA-YA_A-unsplash.jpg');
+}
+
+.container {
+    height: 100vh;
+    margin: 100px;
+    position: absolute;
+}
+
+.main-title {
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.row {
+    background-color: red;
+    align-content: center;
+    justify-content: space-around;
+    display: flex;
+    width: 100%;
+}
+
+.short-paragraph {
+    margin: 0;
+    padding: 0;
+}
+
+.col-6 {
+
+}
